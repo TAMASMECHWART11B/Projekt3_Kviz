@@ -1,0 +1,11 @@
+fizika; elektromosság; Mi a feszültség jele?; U; V; I; R;
+fizika; elektromosság; Mi a feszültség mértékegysége?; V; A; F; U;
+fizika; elektromosság; Mi az áramerősség jele?; I; U; A; R;
+fizika; elektromosság; Mi az áramerősség mértékegysége?; A; I; W; V;
+fizika; elektromosság; Mi az ellenállás jele?; R; I; V; Ω;
+fizika; elektromosság; Mi az ellenállás mértékegysége?; Ω; V; A; R;
+fizika; elektromosság; Ohm törvénye melyik két mennyiség között állapít meg összefüggést?; feszültség, áramerősség; feszültség, ellenállás;  áramerősség, ellenállás; egyik sem;
+fizika; elektromosság; Ohm törvénye értelmében az adott fogyasztón mért feszültség és áramerősség:; egyenesen arányos; egyenlő; fordítottan arányos; párhuzamos;
+fizika; elektromosság; Mekkora az ellenállás, ha 20 V a feszültség és 10 A az áramerősség?; 2 Ω; 0,5 Ω; 20 Ω; 200 Ω;
+fizika; elektromosság; Mekkora a feszültség ha az ellenállás 20 Ω és 10 A az áramerősség?; 200 V; 2 V; 0,5 V; 20 V;
+fizika; elektromosság; Mekkora az áramerősség, ha 4Ω az ellenállás és a feszültség 24V?; 6 A; 96 A; 20 A; 0,16 A;

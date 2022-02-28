@@ -11,13 +11,15 @@
         <ComboBox x:Name="tantargy" HorizontalAlignment="Left" Margin="76,29,0,0" VerticalAlignment="Top" Width="120"/>
         <Label Content="Témakör:" HorizontalAlignment="Left" Margin="224,29,0,0" VerticalAlignment="Top"/>
         <ComboBox x:Name="temakor" HorizontalAlignment="Left" Margin="287,29,0,0" VerticalAlignment="Top" Width="120"/>
-        <Button x:Name="tesztInditasa" Content="Teszt indítása" HorizontalAlignment="Left" Margin="548,25,0,0" VerticalAlignment="Top" Width="130" Height="26" RenderTransformOrigin="0.508,0.231"/>
-        <Label x:Name="kerdes" Content="Label" HorizontalAlignment="Left" Margin="369,112,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.895,0.615"/>
+        <Button x:Name="tesztInditasa" Content="Teszt indítása" HorizontalAlignment="Left" Margin="548,25,0,0" VerticalAlignment="Top" Width="130" Height="26" RenderTransformOrigin="0.508,0.231" Click="tesztInditasa_Click"/>
+        <Label x:Name="kerdes" Content="Label" HorizontalAlignment="Left" Margin="317,109,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.895,0.615"/>
         <RadioButton x:Name="elsoValasz" Content="" HorizontalAlignment="Left" Margin="60,184,0,0" VerticalAlignment="Top" IsEnabled="False"/>
         <RadioButton x:Name="harmadikValasz" Content="" HorizontalAlignment="Left" Margin="60,311,0,0" VerticalAlignment="Top" IsEnabled="False"/>
-        <RadioButton x:Name="masodikValasz" Content="" HorizontalAlignment="Left" Margin="572,184,0,0" VerticalAlignment="Top" IsEnabled="False"/>
-        <RadioButton x:Name="negyedikValasz" Content="" HorizontalAlignment="Left" Margin="572,311,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <RadioButton x:Name="masodikValasz" Content="" HorizontalAlignment="Left" Margin="548,184,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <RadioButton x:Name="negyedikValasz" Content="" HorizontalAlignment="Left" Margin="548,311,0,0" VerticalAlignment="Top" IsEnabled="False"/>
         <Button x:Name="kilepes" Content="Kilépés" HorizontalAlignment="Left" Margin="548,56,0,0" VerticalAlignment="Top" Width="130" Height="27" Click="kilepes_Click"/>
+        <Button x:Name="elozo" Content="Előző" HorizontalAlignment="Left" Height="31" Margin="206,367,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="kovetkezo" Content="Következő" HorizontalAlignment="Left" Height="31" Margin="348,367,0,0" VerticalAlignment="Top" Width="126"/>
 
     </Grid>
 </Window>

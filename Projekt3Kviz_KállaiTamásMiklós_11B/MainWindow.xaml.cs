@@ -26,17 +26,42 @@ namespace Projekt3Kviz_KállaiTamásMiklós_11B
         public MainWindow()
         {
             InitializeComponent();
-            
+            FizikaBetoltese();
             TortenelemBetoltese();
 
 
 
         }
 
+        public void FizikaBetoltese()
+        {
+            string[] fizika = File.ReadAllLines("fizika.txt");
+            string vhtori = fizika[0].Split(';')[0];
 
+            foreach (string sor in fizika)
+            {
+                string elektrom = sor.Split(';')[0];
+                tantargyak.Add(elektrom);
+                tantargy.Items.Add(elektrom);
+                break;
+            }
+            string[] elektromossag = File.ReadAllLines("fizika.txt");
+            string elektromos = elektromossag[0].Split(';')[0];
+            foreach (string sor in elektromossag)
+            {
+                string Fizika = sor.Split(';')[1];
+                temakor.Items.Add(Fizika);
 
+                if (tantargy.SelectedItem == elektromossag)
+                {
+                    temakor.Items.Add(Fizika);
+                    
+                }
+                break;
+            }
+        }
 
-        private void TortenelemBetoltese()
+        public void TortenelemBetoltese()
         {
             string[] tori = File.ReadAllLines("masodikvhtori.txt");
             string vhtori = tori[0].Split(';')[0];
@@ -49,15 +74,15 @@ namespace Projekt3Kviz_KállaiTamásMiklós_11B
                 break;
             }
             string[] masodikvh = File.ReadAllLines("masodikvhtori.txt");
-            string magyarTori = masodikvh[0].Split(';')[0];
+            string vhTori = masodikvh[0].Split(';')[0];
             foreach (string sor in masodikvh)
             {
-                string magyarTori1 = sor.Split(';')[1];
-                temakor.Items.Add(magyarTori1);
+                string Tori = sor.Split(';')[1];
+                temakor.Items.Add(Tori);
 
                 if (tantargy.SelectedItem == masodikvh)
                 {
-                    temakor.Items.Add(magyarTori1);
+                    temakor.Items.Add(Tori);
                 }
                 break;
             }
@@ -68,6 +93,14 @@ namespace Projekt3Kviz_KállaiTamásMiklós_11B
         private void kilepes_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Ha erre a gombra nyomott Tanár úr, az valószínüleg azért van, mert nem értékelte túl nagy értékűre a projektemet. Kérem gondolja újra az érdemjegyet, hátha többre tudja majd Tanár úr értékelni:)");
+        }
+
+        public void tesztInditasa_Click(object sender, RoutedEventArgs e)
+        {
+            if (temakor.Text != "elektromosság")
+            {
+
+            }
         }
     }
 }
