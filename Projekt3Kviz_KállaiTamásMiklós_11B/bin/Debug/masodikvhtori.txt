@@ -1,0 +1,10 @@
+történelem;II. világháború;Melyik három állam írta alá 1940. szeptember 27-én a háromhatalmi egyezményt?;Japán, Szovjetunió, Németország;Németország, Olaszország, Japán;Franciaország, Nagy-Britannia, Egyesült Államok;Németország, Olaszország, Szovjetunió
+történelem;II. világháború;Spanyolország mikor lépett be a háborúba?;1940;1941;semleges maradt;1942
+történelem;II. világháború;Mikor volt a kurszki csata?;1943. július;1942. október;1943. március;1942. november
+történelem;II. világháború;Kik voltak a potsdami konferencia résztvevői?;Attlee, Sztálin, Roosevelt;Sztálin, Truman, Attlee (Churchill);Churchill, Sztálin, Roosevelt;Churchill, Sztálin, Truman
+történelem;II. világháború;Ki volt a német csapatok parancsnoka Sztálingrádnál?;Rommel;Dönitz;Paulus;Göring
+történelem;II. világháború;Hogyan nevezték a francia védőerőd rendszert?;Foch vonal;Maginot vonal;Napóleon vonal;Atlanti fal
+történelem;II. világháború;Minek a rövidítése volt a D-Day?;Szicíliai partraszállás;Berlin elfoglalása;Normandiai partraszállás;Az atombomba ledobásának napja
+történelem;II. világháború;Hogyan foglalták el Kréta szigetét a német csapatok?;Ejtőernyősökkel;Partraszállással;Nem foglalták el a szigetet;Politikai alkuval
+történelem;II. világháború;Kinek a beceneve volt `Ike`?;Montgomery;Eisenhower;MacArthur;Patton
+történelem;II. világháború;Hány év börtönre ítélték a nürnbergi perben Dönitzet?;20;10;Nem ítélték el;30

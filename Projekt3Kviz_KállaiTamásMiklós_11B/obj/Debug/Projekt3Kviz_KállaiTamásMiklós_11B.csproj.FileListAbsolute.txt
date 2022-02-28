@@ -1,0 +1,15 @@
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\bin\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.exe.config
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\bin\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.exe
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\bin\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.pdb
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.csprojAssemblyReference.cache
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\MainWindow.g.cs
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\App.g.cs
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B_MarkupCompile.cache
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B_MarkupCompile.lref
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\MainWindow.baml
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.g.resources
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.Properties.Resources.resources
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.csproj.GenerateResource.cache
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.csproj.CoreCompileInputs.cache
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.exe
+C:\Users\tomika\Desktop\Projekt3_Kviz\Projekt3Kviz_KállaiTamásMiklós_11B\obj\Debug\Projekt3Kviz_KállaiTamásMiklós_11B.pdb
